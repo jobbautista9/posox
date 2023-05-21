@@ -542,7 +542,7 @@ beforerun1;
 run1; run1; run1; run1;
 chorus1;
 after1chorus1;
-afterchorus1_common; afterchorus1_common;
+afterchorus1_common; afterchorus1_common; afterchorus1_common;
 after2chorus1;
 chorus2;
 decreaseOctave 1; chorus3;
